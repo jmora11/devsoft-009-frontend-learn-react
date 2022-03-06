@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/devsoft-009-frontend-learn-react/static/css/main.31bfcef5.css",
+    "main.js": "/devsoft-009-frontend-learn-react/static/js/main.634f7b88.js",
+    "index.html": "/devsoft-009-frontend-learn-react/index.html",
+    "main.31bfcef5.css.map": "/devsoft-009-frontend-learn-react/static/css/main.31bfcef5.css.map",
+    "main.634f7b88.js.map": "/devsoft-009-frontend-learn-react/static/js/main.634f7b88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31bfcef5.css",
+    "static/js/main.634f7b88.js"
+  ]
+}
