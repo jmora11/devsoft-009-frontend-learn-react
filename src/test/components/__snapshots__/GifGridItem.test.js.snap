@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Gif Grid Item Debe mostrar el componente correctamente con props 1`] = `
+<div
+  className="card animate__animated animate__fadeInBottomLeft"
+>
+  <img
+    alt="Demon Slayer"
+    src="http://mock-test"
+  />
+</div>
+`;
